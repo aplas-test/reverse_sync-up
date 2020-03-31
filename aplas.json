@@ -1,21 +1,25 @@
 {
-  "id": "reverse_sync-up",
-  "name": "Reverse Sync-up",
-  "categoryId": "accounting",
-  "description": "Sharable bandwidth-monitored synergy",
-  "investment_24m": "572",
-  "hostedtype": "SaaS",
-  "licensing_cost": "164",
-  "status_color": "#00FF00",
-  "type": "SaaS",
-  "support_cost": "114",
-  "deployment_date": "7/4/08",
-  "end_of_maintenance": "30/6/17",
-  "department": "Research and Development",
-  "status": "Active",
-  "end_of_life": "27/7/19",
-  "sme_name": "Donaugh Kinman",
-  "months_to_renew_support": "19",
-  "sme_email": "Donaugh.Kinman@memento.net.au",
-  "investment_number": "294"
+  "applications": [
+    {
+      "id": "reverse_sync-up",
+      "name": "Reverse Sync-up",
+      "categoryId": "accounting",
+      "description": "Sharable bandwidth-monitored synergy",
+      "investment_24m": "572",
+      "hostedtype": "SaaS",
+      "licensing_cost": "164",
+      "status_color": "#00FF00",
+      "type": "SaaS",
+      "support_cost": "114",
+      "deployment_date": "7/4/08",
+      "end_of_maintenance": "30/6/17",
+      "department": "Research and Development",
+      "status": "Active",
+      "end_of_life": "27/7/19",
+      "sme_name": "Donaugh Kinman",
+      "months_to_renew_support": "19",
+      "sme_email": "Donaugh.Kinman@memento.net.au",
+      "investment_number": "294"
+    }
+  ]
 }
